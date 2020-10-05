@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T15:52:07.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="7VNqobTkENyONJo4YaJK" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-05T15:53:08.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="b3Qugtw9qfq-7BAQzUm-" version="13.7.6" type="github" pages="2">
   <diagram id="gsMrObz3b9oR-D44nO-9" name="Page-1">
     <mxGraphModel dx="782" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,12 +33,12 @@
           <mxGeometry y="30" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1NBpaKQcDpMzkzBOT2tJ-8" value="ResourceSpecifications" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="290" y="250" width="200" height="130" as="geometry">
+          <mxGeometry x="290" y="250" width="200" height="110" as="geometry">
             <mxRectangle x="520" y="280" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NBpaKQcDpMzkzBOT2tJ-9" value="+ID&#xa;+SubID&#xa;+vCPU&#xa;+Memory&#xa;+Storage&#xa;+Description" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="1NBpaKQcDpMzkzBOT2tJ-8" vertex="1">
-          <mxGeometry y="30" width="200" height="100" as="geometry" />
+        <mxCell id="1NBpaKQcDpMzkzBOT2tJ-9" value="+ID&#xa;+VCPU&#xa;+Memory&#xa;+Storage&#xa;+Description" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="1NBpaKQcDpMzkzBOT2tJ-8" vertex="1">
+          <mxGeometry y="30" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1NBpaKQcDpMzkzBOT2tJ-25" value="Subscription" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="30" y="140" width="160" height="160" as="geometry">
