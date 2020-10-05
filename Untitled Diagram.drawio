@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T15:53:08.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="b3Qugtw9qfq-7BAQzUm-" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-05T15:57:39.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="PJg1wWIlQRwwaWmPhDKi" version="13.7.6" type="github" pages="2">
   <diagram id="gsMrObz3b9oR-D44nO-9" name="Page-1">
     <mxGraphModel dx="782" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxRectangle x="260" y="250" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1NBpaKQcDpMzkzBOT2tJ-26" value="+TraineeId&#xa;+TraineeName&#xa;+RequestDate&#xa;+ExpiryDate&#xa;+CatalogID&#xa;+Status&#xa;+Description" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="1NBpaKQcDpMzkzBOT2tJ-25" vertex="1">
+        <mxCell id="1NBpaKQcDpMzkzBOT2tJ-26" value="+Id (TraineeId)&#xa;+TraineeName&#xa;+UseCaseId&#xa;+CategoryId&#xa;+RequestDate&#xa;+ExpiryDate&#xa;+Status&#xa;+Description" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="1NBpaKQcDpMzkzBOT2tJ-25" vertex="1">
           <mxGeometry y="30" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-JVgOhSvtWBvgApzP8Xh-8" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1NBpaKQcDpMzkzBOT2tJ-26" target="1NBpaKQcDpMzkzBOT2tJ-2" edge="1">
